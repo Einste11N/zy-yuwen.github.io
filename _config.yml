@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zi-Yan Yuwen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Institute of Theoretical Physics, Chinese Academy of Sciences"
+  bio              : "Ph.D candidate in theoretical physics"
+  location         : "Institute of Theoretical Physics, \n Chinese Academy of Sciences"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Einste11N"
   google_plus      :
   keybase          :
   instagram        :
