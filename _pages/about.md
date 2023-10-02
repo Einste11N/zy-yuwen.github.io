@@ -13,7 +13,7 @@ My name is Zi-Yan Yuwen (宇文子炎) from the [Institute of Theoretical Physic
 Educations
 ======
 
-| Affiliations | Time | Degree/Position |
+| Affiliations | Duration | Degree/Position |
 |:--------:|:----:|:------:|
 | Xi'an Jiaotong University | 2016.9-2020.6| Bachelor |
 | Michigan State University | 2018.8-2018.12| International Exchange |
