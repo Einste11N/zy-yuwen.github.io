@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Zi-Yan Yuwen"
   avatar           : "profile.jpg"
-  bio              : "Ph.D candidate in theoretical physics"
-  location         : "Institute of Theoretical Physics, \n\
-                      Chinese Academy of Sciences"
+  bio              : "Institute of Theoretical Physics, Chinese Academy of Sciences"
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yuwenziyan@itp.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2485-5762"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
