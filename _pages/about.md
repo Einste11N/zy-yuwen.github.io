@@ -23,15 +23,15 @@ Educations
 Research interests
 ======
 
-1. Cosmological first-order phase transitions
+**Cosmological first-order phase transitions**
 
 In the early times of the universe, the "vacuum" of the world was different from nowadays.
 
-2. Primordial black holes
+**Primordial black holes**
 
 Black holes are one of the most mysterious celestial bodies in our universe. Primordial black holes are "tiny" black holes formed for some cosmological reasons. 
 
-3. Gravitational waves
+**Gravitational waves**
 
 As one of the most powerful and inspiring tools to detect the physicical processes in the early universe, gravitational waves are more and more mentioned these days, especially after GW150914 was detected by LIGO.
 
