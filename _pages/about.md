@@ -38,7 +38,7 @@ Black holes are one of the most mysterious celestial bodies in our universe. Pri
 
 <p align = "center">    
 <img  src="https://einste11n.github.io/zy-yuwen.github.io/images/main_images/PBH_formation.png" width="99%" />
-  
+  <br />
 <font size=2>Credit: Pablo Villanueva-Domingo, Olga Mena, and Sergio Palomares-Ruiz, arXiv:2103.12087</font>
 </p>
 
@@ -49,7 +49,7 @@ As one of the most powerful and inspiring tools to detect the physical processes
 
 <p align = "center">    
 <img  src="https://einste11n.github.io/zy-yuwen.github.io/images/main_images/Gravity_Waves_StillImage.jpg" width="50%" />
-  
+  <br />
 <font size=2>Credit:NASA</font>
 </p>
 
@@ -60,7 +60,7 @@ Pulsar Timing Arrays (PTAs) are powerful tools used in astronomy to detect low-f
 
 <p align = "center">    
 <img  src="https://einste11n.github.io/zy-yuwen.github.io/images/main_images/PTA.png" width="50%" />
-  
+  <br />
 <font size=2>Credit: David J. Champion</font>
 </p>
 
