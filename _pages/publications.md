@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can find the full publication list on <u><a href="https://inspirehep.net/authors/2078475?ui-citation-summary=true">my INSPIREHEP profile</a>.</u>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
