@@ -18,6 +18,7 @@ Educations
 | Xi'an Jiaotong University | 2016.9-2020.6| Bachelor |
 | Michigan State University | 2018.8-2018.12| International Exchange |
 | The Chinese University of Hongkong | 2019.7-2019.9 | Honor Research Assistant |
+| Stellenbosch University | 2024.8-2025.6 | Visiting Ph.D student |
 | Institute of Theoretical Physics, Chinese Academy of Sciences | 2020.9-Now | Ph.D candidate |
 
 
